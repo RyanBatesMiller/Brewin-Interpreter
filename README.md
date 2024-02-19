@@ -1,13 +1,15 @@
 # Brewin-Interpreter
-Project 1 from CS 131
 
-Introduction
+Project from CS 131
+
+## Introduction
+
 In this project, you will be implementing a simple interpreter for a new programming language, called Brewin. Brewin could be described as the lovechild of C++ and python, with a little EMACS lisp mixed in. You’ll be implementing your interpreter in Python. 
 
-This project is the first of four - in the later CS131 projects, you’ll be adding new features to your interpreter based on the concepts we learn in class. 
-
 Once you successfully complete this project, your interpreter should be able to run simple programs written in a subset of the Brewin language and produce a result, for instance it should be able to run a program that computes the result of a simple arithmetic expression and print this out.
-Brewin v1 Language Introduction
+
+## Brewin v1 Language Introduction
+
 What you'll implement in project #1 - let's call it Brewin v1 - is a small subset of the full Brewin language that you'll build over the quarter. The goal with this first project is to get you to build the simplest possible interpreter that does something useful. Later, once you understand the basics, you'll implement more advanced features in the Brewin language. 
 
 Here is a simple program in the Brewin language.  
